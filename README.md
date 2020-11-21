@@ -1,4 +1,4 @@
-# androidOrderingProject
+# Android-Ordering-Project
  A basic android ordering system that enables the user to search for items in the menu then add the selected item to the cart and create an order for the business to cater. The system can work with the inventory system of a business to easily add or remove available items.
 
 
